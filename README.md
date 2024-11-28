@@ -1,12 +1,8 @@
 # test
 # testPR
 
-`$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
-`$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
-`$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
-`$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
-`$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
-`$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
+Trafilatura is a cutting-edge Python package and command-line tool designed to gather text on the Web and simplify the process of turning raw HTML into structured, meaningful data. It includes all necessary discovery and text processing components to perform web crawling, downloads, scraping, and extraction of main texts, metadata and comments. It aims at staying handy and modular: no database is required, the output can be converted to commonly used formats.`
+
 
 `$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
 `$this->list = list(Array("1"=> 2, 2=>self::ME, 3 => \Location\Web\URI::class));`
